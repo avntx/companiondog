@@ -1,0 +1,28 @@
+# System files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Generated results
+results/
+*.json
+*.png
+
+# Audio / image samples (optional)
+*.wav
+*.jpeg
+*.jpg
+*.png
+
+# Model weights
+*.pt
+
+# Backup files
+*.save
+

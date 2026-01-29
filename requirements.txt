@@ -1,0 +1,11 @@
+streamlit>=1.30
+numpy>=1.23
+librosa>=0.10
+opencv-python-headless>=4.8
+ultralytics>=8.0
+torch>=2.0
+torchvision>=0.15
+matplotlib>=3.7
+pillow>=9.5
+soundfile>=0.12
+scipy>=1.10
